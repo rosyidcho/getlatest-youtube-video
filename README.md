@@ -8,5 +8,5 @@ pip install requests beautifulsoup4 pandas reprint
 ```
 # Usage
 ```
-python latest_ytvid_no_api.py {your youtube channel list}.txt
+python latest_youtube_video.py {your youtube channel list}.txt
 ```
